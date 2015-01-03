@@ -1,5 +1,6 @@
 oma-vrptw
 =========
+Hybrid algorithm(Genetic & Tabu) for VRPTW problem
 
 Test
 ====
